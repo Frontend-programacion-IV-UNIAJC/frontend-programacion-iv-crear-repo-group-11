@@ -4,4 +4,4 @@
 
 Proyecto configurado con VS Code, git y github codespaces.
 
-funciono el push?
+subir otra prueba de astro
